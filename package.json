@@ -1,0 +1,27 @@
+{
+  "name": "tranquilitea",
+  "version": "1.0.0",
+  "description": "My Mood Tracking App!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjjames020/TranquiliTea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjjames020/TranquiliTea/issues"
+  },
+  "homepage": "https://github.com/sjjames020/TranquiliTea#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^8.1.0",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  }
+}
